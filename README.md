@@ -9,12 +9,20 @@ freezes, being able to actually _use_ your computer when the build is happening.
 
 ## Table of contents
 
+- [Current State of the Project](#current-state-of-the-project)
 - [Supported Actions](#supported-actions)
 - [Setup](#setup)
 - [Demo](#demo)
 - [3rd-party IntelliJ Mainframer Plugin](#3rd-party-intellij-mainframer-plugin)
 - [How to Run Tests (for contributors)](#how-to-run-tests-for-contributors)
 - [License](#license)
+
+## Current State of the Project
+
+- 3.x: version under development.
+- 2.x: stable version, recommended for production use at the moment.
+
+You can track 3.x development [milestone progress](https://github.com/gojuno/mainframer/milestone/6).
 
 ## Supported Actions
 
